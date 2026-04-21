@@ -1,5 +1,5 @@
 # Toyota Kijang Innova Market Transition Analysis (2017–2026)
-![Logo](/innova.png)
+<img width="708" height="368" alt="innova" src="https://github.com/user-attachments/assets/ab49b7fe-0d68-4937-a5e9-73385479ba49" />
 ### From Diesel Ladder-Frame Dominance to Hybrid Monocoque Adoption
 
 ![Toyota Innova](https://img.shields.io/badge/Market-Indonesia-red)
