@@ -53,6 +53,10 @@ and the Innova Zenix (TNGA monocoque FWD, gasoline/hybrid) — launched in Novem
 pip install pandas numpy plotly statsmodels pmdarima lightgbm shap
 ```
 
+## Kaggle Link
+
+[Toyota Innova Wholesale Sales Indonesia(2017-2026)](https://www.kaggle.com/datasets/yonathanhary/toyota-innova-wholesale-sales-indonesia2017-2026/)
+
 ## License
 
 Dataset derived from publicly available GAIKINDO reports.
