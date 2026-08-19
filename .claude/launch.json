@@ -6,6 +6,12 @@
       "runtimeExecutable": "npm",
       "runtimeArgs": ["run", "dev", "--prefix", "dashboard", "--", "--port", "5173"],
       "port": 5173
+    },
+    {
+      "name": "dashboard-dist",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "preview", "--prefix", "dashboard", "--", "--port", "4173"],
+      "port": 4173
     }
   ]
 }

@@ -118,9 +118,12 @@ cd dashboard && npm install && npm run dev
 ```
 
 Its SARIMA models use the same `auto_arima` settings as the notebook, so the
-figures on the dashboard match the analysis. Pushing to `main` publishes it to
-GitHub Pages — see [dashboard/README.md](dashboard/README.md) for details and
-the one-time Pages setup.
+figures on the dashboard match the analysis.
+
+It deploys to **Vercel** (import the repo and set Root Directory to `dashboard`)
+or **GitHub Pages** (a workflow publishes on push to `main`). Both are supported
+at once and neither needs a code change — see
+[dashboard/README.md](dashboard/README.md) for the one-time setup of each.
 
 ## Kaggle Link
 

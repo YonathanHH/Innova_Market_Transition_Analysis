@@ -1,9 +1,10 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
-// Served from https://<user>.github.io/Innova_Market_Transition_Analysis/
+// Root-relative by default, which is what Vercel (and `npm run dev`) serve.
+// GitHub Pages serves from /<repo>/ instead, so its workflow passes VITE_BASE.
 export default defineConfig({
   plugins: [react()],
-  base: process.env.VITE_BASE ?? '/Innova_Market_Transition_Analysis/',
+  base: process.env.VITE_BASE ?? '/',
   build: { outDir: 'dist', sourcemap: false },
 })
