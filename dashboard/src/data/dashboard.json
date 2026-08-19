@@ -1,0 +1,1680 @@
+{
+  "meta": {
+    "generated": "2026-08-19T14:45:56Z",
+    "source": "GAIKINDO monthly wholesale reports",
+    "rows": 1437,
+    "totalUnits": 505239,
+    "coverage": {
+      "from": "2017-01",
+      "to": "2026-03"
+    },
+    "seriesNames": [
+      "Reborn Diesel",
+      "Reborn Gasoline",
+      "Zenix Gasoline",
+      "Zenix Hybrid"
+    ],
+    "forecastHorizon": 24,
+    "zenixLaunch": "2022-11",
+    "lastFullYear": 2025
+  },
+  "kpis": {
+    "totalUnits": 505239,
+    "lastFullYearTotal": 61169,
+    "lastFullYearHybridShare": 39.1,
+    "lastFullYearDieselShare": 49.9,
+    "giiasLiftPct": 9.7
+  },
+  "monthly": [
+    {
+      "date": "2017-01",
+      "total": 3494,
+      "Reborn Diesel": 1420,
+      "Reborn Gasoline": 2074,
+      "Zenix Gasoline": 0,
+      "Zenix Hybrid": 0
+    },
+    {
+      "date": "2017-02",
+      "total": 4333,
+      "Reborn Diesel": 1677,
+      "Reborn Gasoline": 2656,
+      "Zenix Gasoline": 0,
+      "Zenix Hybrid": 0
+    },
+    {
+      "date": "2017-03",
+      "total": 5429,
+      "Reborn Diesel": 2200,
+      "Reborn Gasoline": 3229,
+      "Zenix Gasoline": 0,
+      "Zenix Hybrid": 0
+    },
+    {
+      "date": "2017-04",
+      "total": 4898,
+      "Reborn Diesel": 1952,
+      "Reborn Gasoline": 2946,
+      "Zenix Gasoline": 0,
+      "Zenix Hybrid": 0
+    },
+    {
+      "date": "2017-05",
+      "total": 5651,
+      "Reborn Diesel": 2442,
+      "Reborn Gasoline": 3209,
+      "Zenix Gasoline": 0,
+      "Zenix Hybrid": 0
+    },
+    {
+      "date": "2017-06",
+      "total": 3452,
+      "Reborn Diesel": 1498,
+      "Reborn Gasoline": 1954,
+      "Zenix Gasoline": 0,
+      "Zenix Hybrid": 0
+    },
+    {
+      "date": "2017-07",
+      "total": 5934,
+      "Reborn Diesel": 2585,
+      "Reborn Gasoline": 3349,
+      "Zenix Gasoline": 0,
+      "Zenix Hybrid": 0
+    },
+    {
+      "date": "2017-08",
+      "total": 6136,
+      "Reborn Diesel": 3255,
+      "Reborn Gasoline": 2881,
+      "Zenix Gasoline": 0,
+      "Zenix Hybrid": 0
+    },
+    {
+      "date": "2017-09",
+      "total": 4977,
+      "Reborn Diesel": 2184,
+      "Reborn Gasoline": 2793,
+      "Zenix Gasoline": 0,
+      "Zenix Hybrid": 0
+    },
+    {
+      "date": "2017-10",
+      "total": 6014,
+      "Reborn Diesel": 2421,
+      "Reborn Gasoline": 3593,
+      "Zenix Gasoline": 0,
+      "Zenix Hybrid": 0
+    },
+    {
+      "date": "2017-11",
+      "total": 6079,
+      "Reborn Diesel": 2769,
+      "Reborn Gasoline": 3310,
+      "Zenix Gasoline": 0,
+      "Zenix Hybrid": 0
+    },
+    {
+      "date": "2017-12",
+      "total": 5378,
+      "Reborn Diesel": 2889,
+      "Reborn Gasoline": 2489,
+      "Zenix Gasoline": 0,
+      "Zenix Hybrid": 0
+    },
+    {
+      "date": "2018-01",
+      "total": 4553,
+      "Reborn Diesel": 2258,
+      "Reborn Gasoline": 2295,
+      "Zenix Gasoline": 0,
+      "Zenix Hybrid": 0
+    },
+    {
+      "date": "2018-02",
+      "total": 4954,
+      "Reborn Diesel": 2585,
+      "Reborn Gasoline": 2369,
+      "Zenix Gasoline": 0,
+      "Zenix Hybrid": 0
+    },
+    {
+      "date": "2018-03",
+      "total": 5168,
+      "Reborn Diesel": 3081,
+      "Reborn Gasoline": 2087,
+      "Zenix Gasoline": 0,
+      "Zenix Hybrid": 0
+    },
+    {
+      "date": "2018-04",
+      "total": 4648,
+      "Reborn Diesel": 2636,
+      "Reborn Gasoline": 2012,
+      "Zenix Gasoline": 0,
+      "Zenix Hybrid": 0
+    },
+    {
+      "date": "2018-05",
+      "total": 5011,
+      "Reborn Diesel": 2046,
+      "Reborn Gasoline": 2965,
+      "Zenix Gasoline": 0,
+      "Zenix Hybrid": 0
+    },
+    {
+      "date": "2018-06",
+      "total": 1614,
+      "Reborn Diesel": 1057,
+      "Reborn Gasoline": 557,
+      "Zenix Gasoline": 0,
+      "Zenix Hybrid": 0
+    },
+    {
+      "date": "2018-07",
+      "total": 5204,
+      "Reborn Diesel": 1766,
+      "Reborn Gasoline": 3438,
+      "Zenix Gasoline": 0,
+      "Zenix Hybrid": 0
+    },
+    {
+      "date": "2018-08",
+      "total": 5173,
+      "Reborn Diesel": 2453,
+      "Reborn Gasoline": 2720,
+      "Zenix Gasoline": 0,
+      "Zenix Hybrid": 0
+    },
+    {
+      "date": "2018-09",
+      "total": 5177,
+      "Reborn Diesel": 3300,
+      "Reborn Gasoline": 1877,
+      "Zenix Gasoline": 0,
+      "Zenix Hybrid": 0
+    },
+    {
+      "date": "2018-10",
+      "total": 7085,
+      "Reborn Diesel": 3896,
+      "Reborn Gasoline": 3189,
+      "Zenix Gasoline": 0,
+      "Zenix Hybrid": 0
+    },
+    {
+      "date": "2018-11",
+      "total": 6082,
+      "Reborn Diesel": 3704,
+      "Reborn Gasoline": 2378,
+      "Zenix Gasoline": 0,
+      "Zenix Hybrid": 0
+    },
+    {
+      "date": "2018-12",
+      "total": 5021,
+      "Reborn Diesel": 2782,
+      "Reborn Gasoline": 2239,
+      "Zenix Gasoline": 0,
+      "Zenix Hybrid": 0
+    },
+    {
+      "date": "2019-01",
+      "total": 5326,
+      "Reborn Diesel": 3407,
+      "Reborn Gasoline": 1919,
+      "Zenix Gasoline": 0,
+      "Zenix Hybrid": 0
+    },
+    {
+      "date": "2019-02",
+      "total": 4260,
+      "Reborn Diesel": 1653,
+      "Reborn Gasoline": 2607,
+      "Zenix Gasoline": 0,
+      "Zenix Hybrid": 0
+    },
+    {
+      "date": "2019-03",
+      "total": 5006,
+      "Reborn Diesel": 3055,
+      "Reborn Gasoline": 1951,
+      "Zenix Gasoline": 0,
+      "Zenix Hybrid": 0
+    },
+    {
+      "date": "2019-04",
+      "total": 4632,
+      "Reborn Diesel": 2621,
+      "Reborn Gasoline": 2011,
+      "Zenix Gasoline": 0,
+      "Zenix Hybrid": 0
+    },
+    {
+      "date": "2019-05",
+      "total": 3909,
+      "Reborn Diesel": 2054,
+      "Reborn Gasoline": 1855,
+      "Zenix Gasoline": 0,
+      "Zenix Hybrid": 0
+    },
+    {
+      "date": "2019-06",
+      "total": 3683,
+      "Reborn Diesel": 2091,
+      "Reborn Gasoline": 1592,
+      "Zenix Gasoline": 0,
+      "Zenix Hybrid": 0
+    },
+    {
+      "date": "2019-07",
+      "total": 3408,
+      "Reborn Diesel": 1880,
+      "Reborn Gasoline": 1528,
+      "Zenix Gasoline": 0,
+      "Zenix Hybrid": 0
+    },
+    {
+      "date": "2019-08",
+      "total": 4265,
+      "Reborn Diesel": 3076,
+      "Reborn Gasoline": 1189,
+      "Zenix Gasoline": 0,
+      "Zenix Hybrid": 0
+    },
+    {
+      "date": "2019-09",
+      "total": 4660,
+      "Reborn Diesel": 2917,
+      "Reborn Gasoline": 1743,
+      "Zenix Gasoline": 0,
+      "Zenix Hybrid": 0
+    },
+    {
+      "date": "2019-10",
+      "total": 4518,
+      "Reborn Diesel": 2880,
+      "Reborn Gasoline": 1638,
+      "Zenix Gasoline": 0,
+      "Zenix Hybrid": 0
+    },
+    {
+      "date": "2019-11",
+      "total": 4817,
+      "Reborn Diesel": 3162,
+      "Reborn Gasoline": 1655,
+      "Zenix Gasoline": 0,
+      "Zenix Hybrid": 0
+    },
+    {
+      "date": "2019-12",
+      "total": 4987,
+      "Reborn Diesel": 3227,
+      "Reborn Gasoline": 1760,
+      "Zenix Gasoline": 0,
+      "Zenix Hybrid": 0
+    },
+    {
+      "date": "2020-01",
+      "total": 4010,
+      "Reborn Diesel": 2530,
+      "Reborn Gasoline": 1480,
+      "Zenix Gasoline": 0,
+      "Zenix Hybrid": 0
+    },
+    {
+      "date": "2020-02",
+      "total": 4593,
+      "Reborn Diesel": 2623,
+      "Reborn Gasoline": 1970,
+      "Zenix Gasoline": 0,
+      "Zenix Hybrid": 0
+    },
+    {
+      "date": "2020-03",
+      "total": 4090,
+      "Reborn Diesel": 2732,
+      "Reborn Gasoline": 1358,
+      "Zenix Gasoline": 0,
+      "Zenix Hybrid": 0
+    },
+    {
+      "date": "2020-04",
+      "total": 455,
+      "Reborn Diesel": 228,
+      "Reborn Gasoline": 227,
+      "Zenix Gasoline": 0,
+      "Zenix Hybrid": 0
+    },
+    {
+      "date": "2020-05",
+      "total": 186,
+      "Reborn Diesel": 74,
+      "Reborn Gasoline": 112,
+      "Zenix Gasoline": 0,
+      "Zenix Hybrid": 0
+    },
+    {
+      "date": "2020-06",
+      "total": 523,
+      "Reborn Diesel": 209,
+      "Reborn Gasoline": 314,
+      "Zenix Gasoline": 0,
+      "Zenix Hybrid": 0
+    },
+    {
+      "date": "2020-07",
+      "total": 1272,
+      "Reborn Diesel": 876,
+      "Reborn Gasoline": 396,
+      "Zenix Gasoline": 0,
+      "Zenix Hybrid": 0
+    },
+    {
+      "date": "2020-08",
+      "total": 2477,
+      "Reborn Diesel": 2402,
+      "Reborn Gasoline": 75,
+      "Zenix Gasoline": 0,
+      "Zenix Hybrid": 0
+    },
+    {
+      "date": "2020-09",
+      "total": 938,
+      "Reborn Diesel": 919,
+      "Reborn Gasoline": 19,
+      "Zenix Gasoline": 0,
+      "Zenix Hybrid": 0
+    },
+    {
+      "date": "2020-10",
+      "total": 2093,
+      "Reborn Diesel": 1048,
+      "Reborn Gasoline": 1045,
+      "Zenix Gasoline": 0,
+      "Zenix Hybrid": 0
+    },
+    {
+      "date": "2020-11",
+      "total": 3453,
+      "Reborn Diesel": 1944,
+      "Reborn Gasoline": 1509,
+      "Zenix Gasoline": 0,
+      "Zenix Hybrid": 0
+    },
+    {
+      "date": "2020-12",
+      "total": 3484,
+      "Reborn Diesel": 2304,
+      "Reborn Gasoline": 1180,
+      "Zenix Gasoline": 0,
+      "Zenix Hybrid": 0
+    },
+    {
+      "date": "2021-01",
+      "total": 3401,
+      "Reborn Diesel": 914,
+      "Reborn Gasoline": 2487,
+      "Zenix Gasoline": 0,
+      "Zenix Hybrid": 0
+    },
+    {
+      "date": "2021-02",
+      "total": 3114,
+      "Reborn Diesel": 1191,
+      "Reborn Gasoline": 1923,
+      "Zenix Gasoline": 0,
+      "Zenix Hybrid": 0
+    },
+    {
+      "date": "2021-03",
+      "total": 2045,
+      "Reborn Diesel": 826,
+      "Reborn Gasoline": 1219,
+      "Zenix Gasoline": 0,
+      "Zenix Hybrid": 0
+    },
+    {
+      "date": "2021-04",
+      "total": 6222,
+      "Reborn Diesel": 2218,
+      "Reborn Gasoline": 4004,
+      "Zenix Gasoline": 0,
+      "Zenix Hybrid": 0
+    },
+    {
+      "date": "2021-05",
+      "total": 2726,
+      "Reborn Diesel": 907,
+      "Reborn Gasoline": 1819,
+      "Zenix Gasoline": 0,
+      "Zenix Hybrid": 0
+    },
+    {
+      "date": "2021-06",
+      "total": 4051,
+      "Reborn Diesel": 1273,
+      "Reborn Gasoline": 2778,
+      "Zenix Gasoline": 0,
+      "Zenix Hybrid": 0
+    },
+    {
+      "date": "2021-07",
+      "total": 2119,
+      "Reborn Diesel": 359,
+      "Reborn Gasoline": 1760,
+      "Zenix Gasoline": 0,
+      "Zenix Hybrid": 0
+    },
+    {
+      "date": "2021-08",
+      "total": 5072,
+      "Reborn Diesel": 990,
+      "Reborn Gasoline": 4082,
+      "Zenix Gasoline": 0,
+      "Zenix Hybrid": 0
+    },
+    {
+      "date": "2021-09",
+      "total": 4447,
+      "Reborn Diesel": 1552,
+      "Reborn Gasoline": 2895,
+      "Zenix Gasoline": 0,
+      "Zenix Hybrid": 0
+    },
+    {
+      "date": "2021-10",
+      "total": 4142,
+      "Reborn Diesel": 1884,
+      "Reborn Gasoline": 2258,
+      "Zenix Gasoline": 0,
+      "Zenix Hybrid": 0
+    },
+    {
+      "date": "2021-11",
+      "total": 5859,
+      "Reborn Diesel": 1641,
+      "Reborn Gasoline": 4218,
+      "Zenix Gasoline": 0,
+      "Zenix Hybrid": 0
+    },
+    {
+      "date": "2021-12",
+      "total": 6337,
+      "Reborn Diesel": 1934,
+      "Reborn Gasoline": 4403,
+      "Zenix Gasoline": 0,
+      "Zenix Hybrid": 0
+    },
+    {
+      "date": "2022-01",
+      "total": 3970,
+      "Reborn Diesel": 3244,
+      "Reborn Gasoline": 726,
+      "Zenix Gasoline": 0,
+      "Zenix Hybrid": 0
+    },
+    {
+      "date": "2022-02",
+      "total": 4375,
+      "Reborn Diesel": 2678,
+      "Reborn Gasoline": 1697,
+      "Zenix Gasoline": 0,
+      "Zenix Hybrid": 0
+    },
+    {
+      "date": "2022-03",
+      "total": 6319,
+      "Reborn Diesel": 5276,
+      "Reborn Gasoline": 1043,
+      "Zenix Gasoline": 0,
+      "Zenix Hybrid": 0
+    },
+    {
+      "date": "2022-04",
+      "total": 3335,
+      "Reborn Diesel": 2538,
+      "Reborn Gasoline": 797,
+      "Zenix Gasoline": 0,
+      "Zenix Hybrid": 0
+    },
+    {
+      "date": "2022-05",
+      "total": 2047,
+      "Reborn Diesel": 1238,
+      "Reborn Gasoline": 809,
+      "Zenix Gasoline": 0,
+      "Zenix Hybrid": 0
+    },
+    {
+      "date": "2022-06",
+      "total": 3448,
+      "Reborn Diesel": 2573,
+      "Reborn Gasoline": 875,
+      "Zenix Gasoline": 0,
+      "Zenix Hybrid": 0
+    },
+    {
+      "date": "2022-07",
+      "total": 2649,
+      "Reborn Diesel": 1611,
+      "Reborn Gasoline": 1038,
+      "Zenix Gasoline": 0,
+      "Zenix Hybrid": 0
+    },
+    {
+      "date": "2022-08",
+      "total": 3949,
+      "Reborn Diesel": 2525,
+      "Reborn Gasoline": 1424,
+      "Zenix Gasoline": 0,
+      "Zenix Hybrid": 0
+    },
+    {
+      "date": "2022-09",
+      "total": 5426,
+      "Reborn Diesel": 2735,
+      "Reborn Gasoline": 2691,
+      "Zenix Gasoline": 0,
+      "Zenix Hybrid": 0
+    },
+    {
+      "date": "2022-10",
+      "total": 3379,
+      "Reborn Diesel": 1537,
+      "Reborn Gasoline": 1842,
+      "Zenix Gasoline": 0,
+      "Zenix Hybrid": 0
+    },
+    {
+      "date": "2022-11",
+      "total": 1931,
+      "Reborn Diesel": 493,
+      "Reborn Gasoline": 74,
+      "Zenix Gasoline": 740,
+      "Zenix Hybrid": 624
+    },
+    {
+      "date": "2022-12",
+      "total": 6010,
+      "Reborn Diesel": 340,
+      "Reborn Gasoline": 1025,
+      "Zenix Gasoline": 2750,
+      "Zenix Hybrid": 1895
+    },
+    {
+      "date": "2023-01",
+      "total": 4127,
+      "Reborn Diesel": 298,
+      "Reborn Gasoline": 322,
+      "Zenix Gasoline": 2042,
+      "Zenix Hybrid": 1465
+    },
+    {
+      "date": "2023-02",
+      "total": 3327,
+      "Reborn Diesel": 655,
+      "Reborn Gasoline": 439,
+      "Zenix Gasoline": 1254,
+      "Zenix Hybrid": 979
+    },
+    {
+      "date": "2023-03",
+      "total": 3407,
+      "Reborn Diesel": 1026,
+      "Reborn Gasoline": 318,
+      "Zenix Gasoline": 985,
+      "Zenix Hybrid": 1078
+    },
+    {
+      "date": "2023-04",
+      "total": 3645,
+      "Reborn Diesel": 597,
+      "Reborn Gasoline": 134,
+      "Zenix Gasoline": 953,
+      "Zenix Hybrid": 1961
+    },
+    {
+      "date": "2023-05",
+      "total": 4782,
+      "Reborn Diesel": 1307,
+      "Reborn Gasoline": 480,
+      "Zenix Gasoline": 1259,
+      "Zenix Hybrid": 1736
+    },
+    {
+      "date": "2023-06",
+      "total": 4381,
+      "Reborn Diesel": 300,
+      "Reborn Gasoline": 493,
+      "Zenix Gasoline": 1545,
+      "Zenix Hybrid": 2043
+    },
+    {
+      "date": "2023-07",
+      "total": 5760,
+      "Reborn Diesel": 1662,
+      "Reborn Gasoline": 236,
+      "Zenix Gasoline": 1182,
+      "Zenix Hybrid": 2680
+    },
+    {
+      "date": "2023-08",
+      "total": 7463,
+      "Reborn Diesel": 1842,
+      "Reborn Gasoline": 267,
+      "Zenix Gasoline": 1586,
+      "Zenix Hybrid": 3768
+    },
+    {
+      "date": "2023-09",
+      "total": 6486,
+      "Reborn Diesel": 1602,
+      "Reborn Gasoline": 136,
+      "Zenix Gasoline": 2253,
+      "Zenix Hybrid": 2495
+    },
+    {
+      "date": "2023-10",
+      "total": 7171,
+      "Reborn Diesel": 2467,
+      "Reborn Gasoline": 252,
+      "Zenix Gasoline": 1165,
+      "Zenix Hybrid": 3287
+    },
+    {
+      "date": "2023-11",
+      "total": 7064,
+      "Reborn Diesel": 3351,
+      "Reborn Gasoline": 342,
+      "Zenix Gasoline": 613,
+      "Zenix Hybrid": 2758
+    },
+    {
+      "date": "2023-12",
+      "total": 8841,
+      "Reborn Diesel": 3710,
+      "Reborn Gasoline": 481,
+      "Zenix Gasoline": 1195,
+      "Zenix Hybrid": 3455
+    },
+    {
+      "date": "2024-01",
+      "total": 5279,
+      "Reborn Diesel": 1240,
+      "Reborn Gasoline": 228,
+      "Zenix Gasoline": 1216,
+      "Zenix Hybrid": 2595
+    },
+    {
+      "date": "2024-02",
+      "total": 3748,
+      "Reborn Diesel": 1126,
+      "Reborn Gasoline": 213,
+      "Zenix Gasoline": 1240,
+      "Zenix Hybrid": 1169
+    },
+    {
+      "date": "2024-03",
+      "total": 4638,
+      "Reborn Diesel": 1281,
+      "Reborn Gasoline": 522,
+      "Zenix Gasoline": 963,
+      "Zenix Hybrid": 1872
+    },
+    {
+      "date": "2024-04",
+      "total": 2805,
+      "Reborn Diesel": 590,
+      "Reborn Gasoline": 451,
+      "Zenix Gasoline": 625,
+      "Zenix Hybrid": 1139
+    },
+    {
+      "date": "2024-05",
+      "total": 5381,
+      "Reborn Diesel": 2819,
+      "Reborn Gasoline": 205,
+      "Zenix Gasoline": 1101,
+      "Zenix Hybrid": 1256
+    },
+    {
+      "date": "2024-06",
+      "total": 5392,
+      "Reborn Diesel": 2237,
+      "Reborn Gasoline": 252,
+      "Zenix Gasoline": 860,
+      "Zenix Hybrid": 2043
+    },
+    {
+      "date": "2024-07",
+      "total": 6886,
+      "Reborn Diesel": 2454,
+      "Reborn Gasoline": 383,
+      "Zenix Gasoline": 1143,
+      "Zenix Hybrid": 2906
+    },
+    {
+      "date": "2024-08",
+      "total": 6537,
+      "Reborn Diesel": 2603,
+      "Reborn Gasoline": 175,
+      "Zenix Gasoline": 608,
+      "Zenix Hybrid": 3151
+    },
+    {
+      "date": "2024-09",
+      "total": 6029,
+      "Reborn Diesel": 1794,
+      "Reborn Gasoline": 269,
+      "Zenix Gasoline": 867,
+      "Zenix Hybrid": 3099
+    },
+    {
+      "date": "2024-10",
+      "total": 5693,
+      "Reborn Diesel": 2173,
+      "Reborn Gasoline": 272,
+      "Zenix Gasoline": 732,
+      "Zenix Hybrid": 2516
+    },
+    {
+      "date": "2024-11",
+      "total": 5908,
+      "Reborn Diesel": 2356,
+      "Reborn Gasoline": 225,
+      "Zenix Gasoline": 720,
+      "Zenix Hybrid": 2607
+    },
+    {
+      "date": "2024-12",
+      "total": 5382,
+      "Reborn Diesel": 2338,
+      "Reborn Gasoline": 176,
+      "Zenix Gasoline": 751,
+      "Zenix Hybrid": 2117
+    },
+    {
+      "date": "2025-01",
+      "total": 5171,
+      "Reborn Diesel": 2492,
+      "Reborn Gasoline": 0,
+      "Zenix Gasoline": 785,
+      "Zenix Hybrid": 1894
+    },
+    {
+      "date": "2025-02",
+      "total": 6008,
+      "Reborn Diesel": 2929,
+      "Reborn Gasoline": 0,
+      "Zenix Gasoline": 1097,
+      "Zenix Hybrid": 1982
+    },
+    {
+      "date": "2025-03",
+      "total": 5353,
+      "Reborn Diesel": 2291,
+      "Reborn Gasoline": 0,
+      "Zenix Gasoline": 856,
+      "Zenix Hybrid": 2206
+    },
+    {
+      "date": "2025-04",
+      "total": 4588,
+      "Reborn Diesel": 1742,
+      "Reborn Gasoline": 0,
+      "Zenix Gasoline": 425,
+      "Zenix Hybrid": 2421
+    },
+    {
+      "date": "2025-05",
+      "total": 5173,
+      "Reborn Diesel": 2223,
+      "Reborn Gasoline": 0,
+      "Zenix Gasoline": 411,
+      "Zenix Hybrid": 2539
+    },
+    {
+      "date": "2025-06",
+      "total": 4814,
+      "Reborn Diesel": 2296,
+      "Reborn Gasoline": 0,
+      "Zenix Gasoline": 570,
+      "Zenix Hybrid": 1948
+    },
+    {
+      "date": "2025-07",
+      "total": 4311,
+      "Reborn Diesel": 2451,
+      "Reborn Gasoline": 0,
+      "Zenix Gasoline": 462,
+      "Zenix Hybrid": 1398
+    },
+    {
+      "date": "2025-08",
+      "total": 3741,
+      "Reborn Diesel": 2089,
+      "Reborn Gasoline": 0,
+      "Zenix Gasoline": 360,
+      "Zenix Hybrid": 1292
+    },
+    {
+      "date": "2025-09",
+      "total": 6143,
+      "Reborn Diesel": 3407,
+      "Reborn Gasoline": 0,
+      "Zenix Gasoline": 564,
+      "Zenix Hybrid": 2172
+    },
+    {
+      "date": "2025-10",
+      "total": 4913,
+      "Reborn Diesel": 2165,
+      "Reborn Gasoline": 0,
+      "Zenix Gasoline": 539,
+      "Zenix Hybrid": 2209
+    },
+    {
+      "date": "2025-11",
+      "total": 4474,
+      "Reborn Diesel": 1967,
+      "Reborn Gasoline": 0,
+      "Zenix Gasoline": 373,
+      "Zenix Hybrid": 2134
+    },
+    {
+      "date": "2025-12",
+      "total": 6480,
+      "Reborn Diesel": 4462,
+      "Reborn Gasoline": 0,
+      "Zenix Gasoline": 279,
+      "Zenix Hybrid": 1739
+    },
+    {
+      "date": "2026-01",
+      "total": 5401,
+      "Reborn Diesel": 2728,
+      "Reborn Gasoline": 0,
+      "Zenix Gasoline": 530,
+      "Zenix Hybrid": 2143
+    },
+    {
+      "date": "2026-02",
+      "total": 5998,
+      "Reborn Diesel": 3474,
+      "Reborn Gasoline": 0,
+      "Zenix Gasoline": 394,
+      "Zenix Hybrid": 2130
+    },
+    {
+      "date": "2026-03",
+      "total": 3656,
+      "Reborn Diesel": 1472,
+      "Reborn Gasoline": 0,
+      "Zenix Gasoline": 342,
+      "Zenix Hybrid": 1842
+    }
+  ],
+  "annual": [
+    {
+      "year": 2017,
+      "total": 61775,
+      "partial": false,
+      "byFuel": {
+        "Diesel": 27292,
+        "Gasoline": 34483
+      },
+      "byModel": {
+        "Reborn": 61775
+      },
+      "fuelShare": {
+        "Diesel": 44.2,
+        "Gasoline": 55.8
+      }
+    },
+    {
+      "year": 2018,
+      "total": 59690,
+      "partial": false,
+      "byFuel": {
+        "Diesel": 31564,
+        "Gasoline": 28126
+      },
+      "byModel": {
+        "Reborn": 59690
+      },
+      "fuelShare": {
+        "Diesel": 52.9,
+        "Gasoline": 47.1
+      }
+    },
+    {
+      "year": 2019,
+      "total": 53471,
+      "partial": false,
+      "byFuel": {
+        "Diesel": 32023,
+        "Gasoline": 21448
+      },
+      "byModel": {
+        "Reborn": 53471
+      },
+      "fuelShare": {
+        "Diesel": 59.9,
+        "Gasoline": 40.1
+      }
+    },
+    {
+      "year": 2020,
+      "total": 27574,
+      "partial": false,
+      "byFuel": {
+        "Diesel": 17889,
+        "Gasoline": 9685
+      },
+      "byModel": {
+        "Reborn": 27574
+      },
+      "fuelShare": {
+        "Diesel": 64.9,
+        "Gasoline": 35.1
+      }
+    },
+    {
+      "year": 2021,
+      "total": 49535,
+      "partial": false,
+      "byFuel": {
+        "Diesel": 15689,
+        "Gasoline": 33846
+      },
+      "byModel": {
+        "Reborn": 49535
+      },
+      "fuelShare": {
+        "Diesel": 31.7,
+        "Gasoline": 68.3
+      }
+    },
+    {
+      "year": 2022,
+      "total": 46838,
+      "partial": false,
+      "byFuel": {
+        "Diesel": 26788,
+        "Gasoline": 17531,
+        "Hybrid": 2519
+      },
+      "byModel": {
+        "Reborn": 40829,
+        "Zenix": 6009
+      },
+      "fuelShare": {
+        "Diesel": 57.2,
+        "Gasoline": 37.4,
+        "Hybrid": 5.4
+      }
+    },
+    {
+      "year": 2023,
+      "total": 66454,
+      "partial": false,
+      "byFuel": {
+        "Diesel": 18817,
+        "Gasoline": 19932,
+        "Hybrid": 27705
+      },
+      "byModel": {
+        "Reborn": 22717,
+        "Zenix": 43737
+      },
+      "fuelShare": {
+        "Diesel": 28.3,
+        "Gasoline": 30.0,
+        "Hybrid": 41.7
+      }
+    },
+    {
+      "year": 2024,
+      "total": 63678,
+      "partial": false,
+      "byFuel": {
+        "Diesel": 23011,
+        "Gasoline": 14197,
+        "Hybrid": 26470
+      },
+      "byModel": {
+        "Reborn": 26382,
+        "Zenix": 37296
+      },
+      "fuelShare": {
+        "Diesel": 36.1,
+        "Gasoline": 22.3,
+        "Hybrid": 41.6
+      }
+    },
+    {
+      "year": 2025,
+      "total": 61169,
+      "partial": false,
+      "byFuel": {
+        "Diesel": 30514,
+        "Gasoline": 6721,
+        "Hybrid": 23934
+      },
+      "byModel": {
+        "Reborn": 30514,
+        "Zenix": 30655
+      },
+      "fuelShare": {
+        "Diesel": 49.9,
+        "Gasoline": 11.0,
+        "Hybrid": 39.1
+      }
+    },
+    {
+      "year": 2026,
+      "total": 15055,
+      "partial": true,
+      "byFuel": {
+        "Diesel": 7674,
+        "Gasoline": 1266,
+        "Hybrid": 6115
+      },
+      "byModel": {
+        "Reborn": 7674,
+        "Zenix": 7381
+      },
+      "fuelShare": {
+        "Diesel": 51.0,
+        "Gasoline": 8.4,
+        "Hybrid": 40.6
+      }
+    }
+  ],
+  "seasonality": {
+    "months": [
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sept",
+      "Oct",
+      "Nov",
+      "Dec"
+    ],
+    "rows": [
+      {
+        "year": 2017,
+        "values": [
+          3494,
+          4333,
+          5429,
+          4898,
+          5651,
+          3452,
+          5934,
+          6136,
+          4977,
+          6014,
+          6079,
+          5378
+        ]
+      },
+      {
+        "year": 2018,
+        "values": [
+          4553,
+          4954,
+          5168,
+          4648,
+          5011,
+          1614,
+          5204,
+          5173,
+          5177,
+          7085,
+          6082,
+          5021
+        ]
+      },
+      {
+        "year": 2019,
+        "values": [
+          5326,
+          4260,
+          5006,
+          4632,
+          3909,
+          3683,
+          3408,
+          4265,
+          4660,
+          4518,
+          4817,
+          4987
+        ]
+      },
+      {
+        "year": 2020,
+        "values": [
+          4010,
+          4593,
+          4090,
+          455,
+          186,
+          523,
+          1272,
+          2477,
+          938,
+          2093,
+          3453,
+          3484
+        ]
+      },
+      {
+        "year": 2021,
+        "values": [
+          3401,
+          3114,
+          2045,
+          6222,
+          2726,
+          4051,
+          2119,
+          5072,
+          4447,
+          4142,
+          5859,
+          6337
+        ]
+      },
+      {
+        "year": 2022,
+        "values": [
+          3970,
+          4375,
+          6319,
+          3335,
+          2047,
+          3448,
+          2649,
+          3949,
+          5426,
+          3379,
+          1931,
+          6010
+        ]
+      },
+      {
+        "year": 2023,
+        "values": [
+          4127,
+          3327,
+          3407,
+          3645,
+          4782,
+          4381,
+          5760,
+          7463,
+          6486,
+          7171,
+          7064,
+          8841
+        ]
+      },
+      {
+        "year": 2024,
+        "values": [
+          5279,
+          3748,
+          4638,
+          2805,
+          5381,
+          5392,
+          6886,
+          6537,
+          6029,
+          5693,
+          5908,
+          5382
+        ]
+      },
+      {
+        "year": 2025,
+        "values": [
+          5171,
+          6008,
+          5353,
+          4588,
+          5173,
+          4814,
+          4311,
+          3741,
+          6143,
+          4913,
+          4474,
+          6480
+        ]
+      },
+      {
+        "year": 2026,
+        "values": [
+          5401,
+          5998,
+          3656,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "monthlyMean": {
+      "Jan": 4370.1,
+      "Feb": 4301.3,
+      "Mar": 4606.1,
+      "Apr": 3914.2,
+      "May": 3874.0,
+      "Jun": 3484.2,
+      "Jul": 4171.4,
+      "Aug": 4979.2,
+      "Sept": 4920.3,
+      "Oct": 5000.9,
+      "Nov": 5074.1,
+      "Dec": 5768.9
+    },
+    "giiasLiftPct": 9.7
+  },
+  "forecasts": {
+    "Reborn Diesel": {
+      "order": [
+        1,
+        0,
+        0
+      ],
+      "seasonalOrder": [
+        0,
+        0,
+        0,
+        12
+      ],
+      "aic": 1811.76,
+      "points": [
+        {
+          "date": "2026-04",
+          "mean": 1762.6,
+          "lower": 704.6,
+          "upper": 2820.6
+        },
+        {
+          "date": "2026-05",
+          "mean": 1912.7,
+          "lower": 721.9,
+          "upper": 3103.4
+        },
+        {
+          "date": "2026-06",
+          "mean": 1990.1,
+          "lower": 766.5,
+          "upper": 3213.8
+        },
+        {
+          "date": "2026-07",
+          "mean": 2030.2,
+          "lower": 797.8,
+          "upper": 3262.5
+        },
+        {
+          "date": "2026-08",
+          "mean": 2050.8,
+          "lower": 816.2,
+          "upper": 3285.4
+        },
+        {
+          "date": "2026-09",
+          "mean": 2061.5,
+          "lower": 826.3,
+          "upper": 3296.7
+        },
+        {
+          "date": "2026-10",
+          "mean": 2067.0,
+          "lower": 831.6,
+          "upper": 3302.4
+        },
+        {
+          "date": "2026-11",
+          "mean": 2069.8,
+          "lower": 834.4,
+          "upper": 3305.2
+        },
+        {
+          "date": "2026-12",
+          "mean": 2071.3,
+          "lower": 835.9,
+          "upper": 3306.7
+        },
+        {
+          "date": "2027-01",
+          "mean": 2072.0,
+          "lower": 836.6,
+          "upper": 3307.5
+        },
+        {
+          "date": "2027-02",
+          "mean": 2072.4,
+          "lower": 837.0,
+          "upper": 3307.9
+        },
+        {
+          "date": "2027-03",
+          "mean": 2072.6,
+          "lower": 837.2,
+          "upper": 3308.1
+        },
+        {
+          "date": "2027-04",
+          "mean": 2072.7,
+          "lower": 837.3,
+          "upper": 3308.2
+        },
+        {
+          "date": "2027-05",
+          "mean": 2072.8,
+          "lower": 837.4,
+          "upper": 3308.2
+        },
+        {
+          "date": "2027-06",
+          "mean": 2072.8,
+          "lower": 837.4,
+          "upper": 3308.3
+        },
+        {
+          "date": "2027-07",
+          "mean": 2072.8,
+          "lower": 837.4,
+          "upper": 3308.3
+        },
+        {
+          "date": "2027-08",
+          "mean": 2072.8,
+          "lower": 837.4,
+          "upper": 3308.3
+        },
+        {
+          "date": "2027-09",
+          "mean": 2072.9,
+          "lower": 837.4,
+          "upper": 3308.3
+        },
+        {
+          "date": "2027-10",
+          "mean": 2072.9,
+          "lower": 837.4,
+          "upper": 3308.3
+        },
+        {
+          "date": "2027-11",
+          "mean": 2072.9,
+          "lower": 837.4,
+          "upper": 3308.3
+        },
+        {
+          "date": "2027-12",
+          "mean": 2072.9,
+          "lower": 837.4,
+          "upper": 3308.3
+        },
+        {
+          "date": "2028-01",
+          "mean": 2072.9,
+          "lower": 837.4,
+          "upper": 3308.3
+        },
+        {
+          "date": "2028-02",
+          "mean": 2072.9,
+          "lower": 837.4,
+          "upper": 3308.3
+        },
+        {
+          "date": "2028-03",
+          "mean": 2072.9,
+          "lower": 837.4,
+          "upper": 3308.3
+        }
+      ]
+    },
+    "Zenix Hybrid": {
+      "order": [
+        0,
+        1,
+        0
+      ],
+      "seasonalOrder": [
+        0,
+        0,
+        0,
+        12
+      ],
+      "aic": 777.1,
+      "points": [
+        {
+          "date": "2026-04",
+          "mean": 1842.0,
+          "lower": 1121.5,
+          "upper": 2562.5
+        },
+        {
+          "date": "2026-05",
+          "mean": 1842.0,
+          "lower": 823.0,
+          "upper": 2861.0
+        },
+        {
+          "date": "2026-06",
+          "mean": 1842.0,
+          "lower": 594.0,
+          "upper": 3090.0
+        },
+        {
+          "date": "2026-07",
+          "mean": 1842.0,
+          "lower": 401.0,
+          "upper": 3283.0
+        },
+        {
+          "date": "2026-08",
+          "mean": 1842.0,
+          "lower": 230.9,
+          "upper": 3453.1
+        },
+        {
+          "date": "2026-09",
+          "mean": 1842.0,
+          "lower": 77.1,
+          "upper": 3606.9
+        },
+        {
+          "date": "2026-10",
+          "mean": 1842.0,
+          "lower": 0.0,
+          "upper": 3748.3
+        },
+        {
+          "date": "2026-11",
+          "mean": 1842.0,
+          "lower": 0.0,
+          "upper": 3879.9
+        },
+        {
+          "date": "2026-12",
+          "mean": 1842.0,
+          "lower": 0.0,
+          "upper": 4003.6
+        },
+        {
+          "date": "2027-01",
+          "mean": 1842.0,
+          "lower": 0.0,
+          "upper": 4120.5
+        },
+        {
+          "date": "2027-02",
+          "mean": 1842.0,
+          "lower": 0.0,
+          "upper": 4231.7
+        },
+        {
+          "date": "2027-03",
+          "mean": 1842.0,
+          "lower": 0.0,
+          "upper": 4338.0
+        },
+        {
+          "date": "2027-04",
+          "mean": 1842.0,
+          "lower": 0.0,
+          "upper": 4439.9
+        },
+        {
+          "date": "2027-05",
+          "mean": 1842.0,
+          "lower": 0.0,
+          "upper": 4538.0
+        },
+        {
+          "date": "2027-06",
+          "mean": 1842.0,
+          "lower": 0.0,
+          "upper": 4632.6
+        },
+        {
+          "date": "2027-07",
+          "mean": 1842.0,
+          "lower": 0.0,
+          "upper": 4724.1
+        },
+        {
+          "date": "2027-08",
+          "mean": 1842.0,
+          "lower": 0.0,
+          "upper": 4812.8
+        },
+        {
+          "date": "2027-09",
+          "mean": 1842.0,
+          "lower": 0.0,
+          "upper": 4898.9
+        },
+        {
+          "date": "2027-10",
+          "mean": 1842.0,
+          "lower": 0.0,
+          "upper": 4982.7
+        },
+        {
+          "date": "2027-11",
+          "mean": 1842.0,
+          "lower": 0.0,
+          "upper": 5064.3
+        },
+        {
+          "date": "2027-12",
+          "mean": 1842.0,
+          "lower": 0.0,
+          "upper": 5143.9
+        },
+        {
+          "date": "2028-01",
+          "mean": 1842.0,
+          "lower": 0.0,
+          "upper": 5221.6
+        },
+        {
+          "date": "2028-02",
+          "mean": 1842.0,
+          "lower": 0.0,
+          "upper": 5297.5
+        },
+        {
+          "date": "2028-03",
+          "mean": 1842.0,
+          "lower": 0.0,
+          "upper": 5371.8
+        }
+      ]
+    }
+  },
+  "metrics": {
+    "Reborn Diesel": {
+      "holdoutMonths": 12,
+      "mae": 661.0,
+      "rmse": 964.1,
+      "mape": 22.3
+    },
+    "Zenix Hybrid": {
+      "holdoutMonths": 12,
+      "mae": 300.6,
+      "rmse": 416.2,
+      "mape": 18.5
+    }
+  },
+  "crossover": {
+    "leadRuns": [
+      {
+        "from": "2022-11",
+        "to": "2023-10",
+        "months": 12,
+        "basis": "actual"
+      },
+      {
+        "from": "2024-01",
+        "to": "2024-04",
+        "months": 4,
+        "basis": "actual"
+      },
+      {
+        "from": "2024-07",
+        "to": "2024-11",
+        "months": 5,
+        "basis": "actual"
+      },
+      {
+        "from": "2025-04",
+        "to": "2025-05",
+        "months": 2,
+        "basis": "actual"
+      },
+      {
+        "from": "2025-10",
+        "to": "2025-11",
+        "months": 2,
+        "basis": "actual"
+      },
+      {
+        "from": "2026-03",
+        "to": "2026-04",
+        "months": 2,
+        "basis": "actual to forecast"
+      }
+    ],
+    "historyEnds": "2026-03",
+    "date": null,
+    "withinForecast": false,
+    "lastZenixHybrid": 1842.0,
+    "lastRebornDiesel": 2072.9,
+    "finalGap": 230.9
+  }
+}

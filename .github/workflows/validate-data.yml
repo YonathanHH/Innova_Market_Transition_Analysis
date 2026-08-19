@@ -1,0 +1,29 @@
+name: Validate dataset
+
+# The CSV is hand-parsed, so every change to it gets the integrity checks run
+# against it before it lands.
+on:
+  push:
+    paths:
+      - 'Innova_Wholesales_Data_2017_2026.csv'
+      - 'scripts/validate_data.py'
+      - '.github/workflows/validate-data.yml'
+  pull_request:
+    paths:
+      - 'Innova_Wholesales_Data_2017_2026.csv'
+      - 'scripts/validate_data.py'
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      # Standard library only, so there is nothing to install.
+      - name: Run integrity checks
+        run: python scripts/validate_data.py

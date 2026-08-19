@@ -1,0 +1,29 @@
+# Dependencies for Innova_transition_Full_Analysis.ipynb
+#
+#     pip install -r requirements.txt
+#
+# Lower bounds are the versions the analysis was last run against on Colab
+# (Python 3.12). Python 3.10-3.12 is the supported range: pmdarima ships no
+# wheels for 3.13 yet and will try to build from source there.
+
+# --- core ---
+pandas>=2.2.2
+numpy>=1.26,<3
+scipy>=1.13
+
+# --- charts ---
+plotly>=5.20
+matplotlib>=3.8          # ACF/PACF, residual and SHAP plots
+nbformat>=5.10           # required by plotly for notebook rendering
+
+# --- time series ---
+statsmodels>=0.14.5      # SARIMAX, ADF/KPSS, seasonal_decompose
+pmdarima>=2.1.1          # auto_arima order selection
+
+# --- feature attribution ---
+scikit-learn>=1.5
+lightgbm>=4.3            # gradient-boosted proxy model
+shap>=0.45               # beeswarm feature attribution
+
+# --- notebook ---
+jupyter>=1.0

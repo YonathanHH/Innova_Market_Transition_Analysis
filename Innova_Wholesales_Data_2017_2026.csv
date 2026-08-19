@@ -191,7 +191,7 @@
 2017,Oct,Reborn,Diesel,Manual,Venturer,30,N/A
 2017,Nov,Reborn,Diesel,Manual,Venturer,29,N/A
 2017,Dec,Reborn,Diesel,Manual,Venturer,15,N/A
-2017,Jan,Reborn,Gasoline,Manual,G,813,N/A
+2018,Jan,Reborn,Gasoline,Manual,G,813,N/A
 2018,Feb,Reborn,Gasoline,Manual,G,1081,N/A
 2018,Mar,Reborn,Gasoline,Manual,G,1079,N/A
 2018,Apr,Reborn,Gasoline,Manual,G,1104,N/A
@@ -455,7 +455,7 @@
 2019,Oct,Reborn,Gasoline,Automatic,V,193,N/A
 2019,Nov,Reborn,Gasoline,Automatic,V,233,N/A
 2019,Dec,Reborn,Gasoline,Automatic,V,306,N/A
-2019,Jan,Reborn,Gasoline,Automatic,V,720,N/A
+2019,Jan,Reborn,Diesel,Automatic,V,720,N/A
 2019,Feb,Reborn,Diesel,Automatic,V,235,N/A
 2019,Mar,Reborn,Diesel,Automatic,V,815,N/A
 2019,Apr,Reborn,Diesel,Automatic,V,625,N/A
@@ -1103,18 +1103,18 @@
 2022,Oct,Zenix,Hybrid,Automatic,V,0,Modelista
 2022,Nov,Zenix,Hybrid,Automatic,V,91,Modelista
 2022,Dec,Zenix,Hybrid,Automatic,V,443,Modelista
-2022,Jan,Zenix,Hybrid,Automatic,Q,0,Modelista + TSS
-2022,Feb,Zenix,Hybrid,Automatic,Q,0,Modelista + TSS
-2022,Mar,Zenix,Hybrid,Automatic,Q,0,Modelista + TSS
-2022,Apr,Zenix,Hybrid,Automatic,Q,0,Modelista + TSS
-2022,May,Zenix,Hybrid,Automatic,Q,0,Modelista + TSS
-2022,Jun,Zenix,Hybrid,Automatic,Q,0,Modelista + TSS
-2022,Jul,Zenix,Hybrid,Automatic,Q,0,Modelista + TSS
-2022,Aug,Zenix,Hybrid,Automatic,Q,0,Modelista + TSS
-2022,Sept,Zenix,Hybrid,Automatic,Q,0,Modelista + TSS
-2022,Oct,Zenix,Hybrid,Automatic,Q,0,Modelista + TSS
-2022,Nov,Zenix,Hybrid,Automatic,Q,339,Modelista + TSS
-2022,Dec,Zenix,Hybrid,Automatic,Q,863,Modelista + TSS
+2022,Jan,Zenix,Hybrid,Automatic,Q,0,TSS + Modelista
+2022,Feb,Zenix,Hybrid,Automatic,Q,0,TSS + Modelista
+2022,Mar,Zenix,Hybrid,Automatic,Q,0,TSS + Modelista
+2022,Apr,Zenix,Hybrid,Automatic,Q,0,TSS + Modelista
+2022,May,Zenix,Hybrid,Automatic,Q,0,TSS + Modelista
+2022,Jun,Zenix,Hybrid,Automatic,Q,0,TSS + Modelista
+2022,Jul,Zenix,Hybrid,Automatic,Q,0,TSS + Modelista
+2022,Aug,Zenix,Hybrid,Automatic,Q,0,TSS + Modelista
+2022,Sept,Zenix,Hybrid,Automatic,Q,0,TSS + Modelista
+2022,Oct,Zenix,Hybrid,Automatic,Q,0,TSS + Modelista
+2022,Nov,Zenix,Hybrid,Automatic,Q,339,TSS + Modelista
+2022,Dec,Zenix,Hybrid,Automatic,Q,863,TSS + Modelista
 2023,Jan,Reborn,Diesel,Manual,G,298,Mi
 2023,Feb,Reborn,Diesel,Manual,G,655,Mi
 2023,Mar,Reborn,Diesel,Manual,G,394,Mi
@@ -1307,7 +1307,7 @@
 2024,Oct,Zenix,Hybrid,Automatic,G,749,N/A
 2024,Nov,Zenix,Hybrid,Automatic,G,851,N/A
 2024,Dec,Zenix,Hybrid,Automatic,G,869,N/A
-2024,Jan,Zenix,Hybrid,Automatic,G,1149,N/A
+2024,Jan,Zenix,Hybrid,Automatic,V,1149,N/A
 2024,Feb,Zenix,Hybrid,Automatic,V,250,N/A
 2024,Mar,Zenix,Hybrid,Automatic,V,483,N/A
 2024,Apr,Zenix,Hybrid,Automatic,V,551,N/A

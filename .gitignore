@@ -1,0 +1,26 @@
+# --- notebook-generated intermediates ---
+# Rebuilt by the notebook on every run; the source CSV is the tracked artefact.
+Innova_Wholesales_Enriched.csv
+Innova_TimeSeries_Prepared.csv
+
+# --- python ---
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+*.egg-info/
+
+# --- node / dashboard ---
+node_modules/
+dashboard/dist/
+dashboard/node_modules/
+*.tsbuildinfo
+*.local
+
+# --- os / editor ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
